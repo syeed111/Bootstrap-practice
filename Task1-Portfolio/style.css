@@ -1,0 +1,50 @@
+.back-color{
+  background-color:antiquewhite;
+}
+.my-img{
+  
+}
+.name{
+  text-decoration: midnightblue;
+}
+.greetings{
+  margin: 10px 0px;
+  color:coral;
+  background-color: antiquewhite;
+  text-align: center;
+  height: 100px;
+}
+.proj{
+  color:coral;
+}
+.c{
+  padding: 10px 10px;
+  background-color:darkolivegreen;
+}
+.html{
+  padding: 10px 10px;
+  background-color:coral;
+}
+.css{
+  padding: 10px 10px;
+  background-color:lightcoral;
+}
+.css h3,html h3,c h3{
+  color:honeydew;
+}
+.skill-title{
+  padding: 10px;
+  color:coral;
+}
+.heading{
+  color:coral;
+}
+.foot{
+  color:crimson;
+  background-color: antiquewhite;
+  justify-content: space-between;
+  text-align: center;
+}
+.card{
+  box-shadow: 10px 10px 10px rgb(213, 207, 207);
+}
